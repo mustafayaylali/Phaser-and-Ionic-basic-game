@@ -1,5 +1,8 @@
 {
   "name": "ilkOyunPhaser",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "5c53a100",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
